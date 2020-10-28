@@ -1,4 +1,4 @@
-## Hey, I'm -  [Dhrubo] [website] 👈
+## Hey, I'm -  [Dhrubo][website] 👈
 
 ### JavaScript Addicted  🤟🤟
 - ⚡ Currently working as MERN Stack Developer 😎😎
@@ -37,4 +37,4 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo020&card_width=550)](https://github.com/dhrubo020/dhrubo020)
 
-[website]: https://manikroy.netlify.app/
+[website]: https://dhrubo.netlify.app/
