@@ -1,16 +1,14 @@
-# dhrubo
+## Hey, I'm -  [Dhrubo][website] 👈
 
-### Hi there, I'm Manik -  [Manik][website] 👋
-
-## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working [Programming Hero][programming]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn React,Vue, Node
-- ⚡ Fun fact: I love to see movie and play cricket 
+### JavaScript Addicted  🤟🤟
+- ⚡ Currently working as MERN Stack Developer 😎😎
+- 💻 Always curious about new technology 🤩🤩
+- 💻 Interested in ML, NLP, Robotics 😍😍 
 
 ### Connect with me:
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/manik-roy)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/manikroy_89/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/manikroy89) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11169155/manik-roy)
+[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhrubo9250@gmail.com)](mailto:dhrubo9250@gmail.com)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https:https://www.linkedin.com/in/diptonil-singho-dhrubo-048305158/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/DiptonilSingha/)
 
 <br />
 
@@ -37,17 +35,7 @@
 <br />
 <br />
 
-<img width="550" alt="Manik Roy Github Stats"  src="https://github-readme-stats.vercel.app/api?username=manik-roy&show_icons=true"/>
+<img width="550" alt="Dhrubo's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dhrubo020&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=manik-roy&card_width=550)](https://github.com/manik-roy/manik-roy)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo020&card_width=550)](https://github.com/dhrubo020/dhrubo020)
 
-[programming]: https://www.programming-hero.com/
-[website]: https://manikroy.netlify.app/
-[twitter]: https://manikroy.netlify.app/
-[youtube]:  https://manikroy.netlify.app/
-[instagram]: https://www.instagram.com/manikroy_89/
-[linkedin]: https://www.linkedin.com/in/manik-roy
-[webdevplaylist]: https://manikroy.netlify.app/
-[jsplaylist]: https://manikroy.netlify.app/
-[cssplaylist]: https://manikroy.netlify.app/
-[reactplaylist]: https://manikroy.netlify.app/
