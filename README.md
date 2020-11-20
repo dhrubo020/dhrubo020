@@ -55,4 +55,4 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo020&card_width=550)](https://github.com/dhrubo020/dhrubo020)
 
-[website]: https://dhrubo.netlify.app/
+[website]: https://dnsdhrubo.netlify.app/
