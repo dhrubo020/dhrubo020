@@ -12,7 +12,8 @@
 ## Connect with me:
 [![Gmail Badge](https://img.shields.io/badge/-dhrubo9250@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhrubo9250@gmail.com)](mailto:dhrubo9250@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/diptonil-singho-dhrubo-048305158/)
-[![](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logoColor=ffffff)](https://dnsdhrubo.netlify.app/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/DiptonilSingha/)
+[![Portfolio](https://img.shields.io/badge/%20-Portfolio-green?color=14171A&labelColor=1976d2&logoColor=ffffff)](https://dnsdhrubo.netlify.app/)
 
 <br />
 
