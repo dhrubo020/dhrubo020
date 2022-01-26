@@ -2,7 +2,7 @@
 #### - Associate Software Engineer
 
 
-### TypeScript Addicted  🤟🤟
+### JavaScript Addicted  🤟🤟
 - ⚡ MERN Stack Lover 😎😎
 - ⚡ Problem Solver 🧠🧠
 - 💻 Interested in ML, NLP, Robotics 😍😍 
@@ -34,18 +34,6 @@
 
 <br />
 <br />
-
-## Some projects I worked on: 
-
-1. [Red Onion Restaurant](https://hot-onion-ffd33.web.app//)
-2. [Creative Agency](https://crea1ive-agency.web.app/)
-3. [Volunteer Network](https://volunteer-network-a5800.web.app/)
-4. [Travel Guru](https://travel-guru-807b6.web.app//) 
-5. [Social Buddy](https://mybuddy.netlify.app//)
-6. [Weather Forecast](https://dhrubo020.github.io/weather/)
-7. [E-School](https://dhrubo020.github.io/e-school/index.html)
-8. [Hot Gadget](https://dhrubo020.github.io/hot-gadgets1/)
-
 <br />
 <br />
 
