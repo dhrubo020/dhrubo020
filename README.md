@@ -1,9 +1,9 @@
 ### Hey, I'm -  [Dhrubo][website] 👈 
-#### - MERN Stack Developer
+#### - Associate Software Engineer
 
 
-### JavaScript Addicted  🤟🤟
-- ⚡ Currently working as MERN Stack Developer 😎😎
+### TypeScript Addicted  🤟🤟
+- ⚡ MERN Stack Lover 😎😎
 - ⚡ Problem Solver 🧠🧠
 - 💻 Interested in ML, NLP, Robotics 😍😍 
 
