@@ -1,9 +1,9 @@
 ### Hey, I'm -  [Dhrubo][website] 👈 
-#### - Associate Software Engineer
+#### - Software Engineer
 
 
 ### JavaScript Addicted  🤟🤟
-- ⚡ MERN Stack Lover 😎😎
+- ⚡ Full Stack 😎😎
 - ⚡ Problem Solver 🧠🧠
 - 💻 Interested in ML, NLP, Robotics 😍😍 
 
